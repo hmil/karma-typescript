@@ -35,7 +35,9 @@
   "license": "MIT",
   "dependencies": {
     "amdefine": "1.0.0",
+    "browser-resolve": "^1.11.2",
     "browserify": "^13.1.1",
+    "detective": "^4.3.2",
     "gulp-util": "3.0.7",
     "istanbul": "0.4.3",
     "karma-coverage": "^1.1.1",
